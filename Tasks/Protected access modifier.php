@@ -29,7 +29,7 @@ class Airplant extends Plant{
     }
 }
 
-$A = new Plant('Geranium');
+$A = new Plant('ORCHIDS');
 echo $A->getName();
 
 echo "<br>";
