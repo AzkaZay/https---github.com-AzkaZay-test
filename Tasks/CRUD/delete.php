@@ -20,7 +20,7 @@ if(isset($_POST["id"]) && !empty($_POST["id"])){
             header("location: index.php");
             exit();
         } else{
-            echo "Oops! Something went wrong. Please try again later.";
+            echo "Oops!";
         }
     }
      
