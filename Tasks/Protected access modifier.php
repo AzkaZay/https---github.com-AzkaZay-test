@@ -36,7 +36,7 @@ echo "<br>";
 echo "<br>";
 echo "<br>";
 
-$B = new Airplant('');
+$B = new Airplant('Roses');
 echo $B->getName();
 
 echo "<br>";
