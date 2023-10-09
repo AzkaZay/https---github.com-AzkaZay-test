@@ -1,0 +1,1 @@
+<b>(File being written into and read+ checks file existence)</b> </br> </br> <b>Menu is: </b></br></br>Pancakes, </br>Waffles, </br>Cookies, </br>Cake, </br>Sandwich, </br>Treche-leches, </br>Croissant. 
