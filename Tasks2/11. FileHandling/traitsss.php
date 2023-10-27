@@ -1,5 +1,5 @@
-<?php
 
+<?php
 Trait Sprinkles{
 function Almondflakes(){
 
